@@ -62,7 +62,14 @@
 ![Server-testing](./images/test%20the%20server.PNG)
 
 6. Verify the new Website
+ - curl -s http://169.254.169.254/latest/meta-data/public-ipv4
+ ![Getting-the-Public-IP-address](./images/Checking%20the%20public%20address.PNG)
  
+
+ - http://<PublicIP-or-PublicDNS>:5000
+
+ 
+
 
 
 
