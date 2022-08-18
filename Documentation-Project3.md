@@ -33,9 +33,37 @@
 
   ![Newly-reated-project.json-file](./images/projectfile.PNG)
 
-  
-      
-    
+
+### Install Expressjs
+
+1. use the command to install Expressjs
+
+- *npm install express*
+2.  Create a file called "index.js", then use *ls* to confirm the installation.
+
+ - *touch index.js*
+
+![List-of-files/folder](./images/list.PNG)
+
+3. Install dotenv using the command
+
+- *npm install dotenv*
+
+![Dotenv](./images/dotenv.PNG)
+
+4. Open the index.js file and place the code as shown below
+
+    ![idex-code](./images/index-code.PNG)
+
+5. Verify that the server is working using the command
+
+- *node index.js*
+
+![Server-testing](./images/test%20the%20server.PNG)
+
+6. Verify the new Website
+ 
+
 
 
 
