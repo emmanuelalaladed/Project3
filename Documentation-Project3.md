@@ -66,9 +66,10 @@
  ![Getting-the-Public-IP-address](./images/Checking%20the%20public%20address.PNG)
  
 
- - http://<PublicIP-or-PublicDNS>:5000
-
+ - http://34.226.141.155:5000
  
+
+
 
 
 
