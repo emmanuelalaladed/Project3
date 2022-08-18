@@ -15,6 +15,27 @@
     - *npm -v*
     ![Node.js and NPM version](./images/Node-and-npm-version.PNG)
 
+### Application Code Setup
+    
+1. Creatye new Directory for the To-Do project
+
+      - *mkdir Todo*
+![New Todo Directoruy](./images/New-Todo-Directory.PNG)
+
+2. Make new changes inside the current Todo Directory and initialize the project to create the new project.jason file.
+
+ - *cd Todo*
+ - *npm.init*
+ 
+ ![Initialization-of-Project](./images/npm-init.PNG)
+
+ 3. Confirm the newly created project.json file
+
+  ![Newly-reated-project.json-file](./images/projectfile.PNG)
+
+  
+      
+    
 
 
 
