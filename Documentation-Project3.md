@@ -69,6 +69,36 @@
  - http://54.221.127:5000
   ![Express-website](./images/website.PNG)
 
+  ### Model
+
+1. Installing the Mongodb database for the app
+- *npm install mongoose* 
+- create a new directory  "model"inside parent directory "Todo"
+    - *mkdir model*
+- inside the new directory "model" create a new file called "todo.js"
+  ![Create_todo_file](./images/mkdir.PNG)
+
+- Edit "todo.js" file as shown below
+
+  ![Todo.js_file](./images/mkdir.PNG)
+
+
+2. Open the "api.js file inside the "route" directory and input the provided script.
+
+    ![api_js](./images/api_js.PNG)
+
+
+### Mongodb Database
+
+1. create and new database called Monggodb
+- ![mongoddb](./images/mondodb.PNG)
+
+2. Create the database
+![Mongodb](./images/mongodb2.PNG)
+
+3. Create a new file inside "Todo" directory and add new script 
+  ![env](./images/env.PNG)
+
 
 
 
