@@ -53,7 +53,7 @@
 
 4. Open the index.js file and place the code as shown below
 
-    ![idex-code](./images/index-code.PNG)
+    ![index-code](./images/index-code.PNG)
 
 5. Verify that the server is working using the command
 
@@ -66,10 +66,8 @@
  ![Getting-the-Public-IP-address](./images/Checking%20the%20public%20address.PNG)
  
 
- - http://34.226.141.155:5000
- 
-
-
+ - http://54.221.127:5000
+  ![Express-website](./images/website.PNG)
 
 
 
